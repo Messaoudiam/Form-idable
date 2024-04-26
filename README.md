@@ -41,7 +41,7 @@ To start using this form library, follow these steps:
 To install the necessary package, use the following command in your terminal:
 
 
-npm i @shark-man/react-form
+`npm i @shark-man/react-form`
 
 
 3. ### In the project directory, you can run the following script to start the development server:

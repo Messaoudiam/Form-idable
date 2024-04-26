@@ -34,22 +34,20 @@ This project is a library of reusable forms for web applications.
 
 To start using this form library, follow these steps:
 
-1. ### Clone this repository to your local machine:
+# Installation Instructions
 
-   `git clone https://github.com/Messaoudiam/Form-idable.git`
+### 1. Install the package
 
-2. ### Install the necessary dependencies using npm:
+To install the necessary package, use the following command in your terminal:
 
-   `npm install`
+```bash
+npm i @shark-man/react-form
+
 
 3. ### In the project directory, you can run the following script to start the development server:
 
    `npm run dev`
-
-4. ### This starts the development server:
-
-   Open http://localhost:3000 to view it in your browser.
-
+   
 
 ## Contributors
 
